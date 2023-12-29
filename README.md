@@ -50,11 +50,11 @@ Swasthify aims at mitigating the hardships people faced during this pandemic. We
 
 -   Frontend : Angular, Typescript, HTML5, CSS3, Bootstrap
 
--   Backend : Spring boot, Java
+-   Backend : Spring boot
 
 -   Cloud Service Providers : Microsoft Azure, Digital Ocean
 
--   Database : Azure MySQL
+-   Database : MySQL
 
 -   Hosting Service Provider : Netlify
 
@@ -80,9 +80,6 @@ Swasthify aims at mitigating the hardships people faced during this pandemic. We
 
 Log On to - [https://swasthify.netlify.app/hospital-login](https://swasthify.netlify.app/hospital-login)
 
-
-## Backend (Spring Boot and MySql)
-[Repository-https://github.com/pranjay-poddar/Swasthify-Backend](https://github.com/pranjay-poddar/Swasthify-Backend)
 
 ## Installation
 - npm install
@@ -131,28 +128,4 @@ For production release:
 npm run build --prod
 
 ```
-
-## How To Contribute
-1.  Fork it ([https://github.com/pranjay-poddar/Swasthify](https://github.com/pranjay-poddar/Swasthify))
-2.  Create your feature branch (`git checkout -b feature/xyz`)
-3.  Commit your changes (`git commit -am 'Add some xyz'`)
-4.  Push to the branch (`git push origin feature/xyz`)
-5.  Create a new Pull Request
-
-## Contributors
-<table>
-  <tr>
-    <td align="center"><a href="https://pranjay.tech/"><img src="https://github.com/pranjay-poddar/Swasthify/blob/pranjay/src/assets/images/contributors/Pranjay-Poddar.jpg" width="250px;" alt=""/><br /><sub><b>Pranjay Poddar</b></sub></a><br /> <br /><a href="https://www.linkedin.com/in/pranjay-poddar/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a> <a href="mailto:pp7769@srmist.edu.in" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>  <a href="https://github.com/pranjay-poddar" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a></td>
-    <td align="center"><a href="https://github.com/shreyanshp25"><img src="https://github.com/pranjay-poddar/Swasthify/blob/pranjay/src/assets/images/contributors/Shreyansh-Pathak.jpg" width="250px;" alt=""/><br /><sub><b>Shreyansh Pathak</b></sub></a><br /> <br /><a href="https://twitter.com/IamShreyansh25" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a> <a href="mailto:sp4733@srmist.edu.in" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>  <a href="https://github.com/shreyanshp25" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a></td>
-    <td align="center"><a href="https://github.com/NishantSingh-2705"><img src="https://github.com/pranjay-poddar/Swasthify/blob/pranjay/src/assets/images/contributors/Nishant-Singh.jpg" width="250px;" alt=""/><br /><sub><b>Nishant Singh</b></sub></a><br /><br /> <a href="https://twitter.com/Nishant27460243" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a> <a href="mailto:ns7004@srmist.edu.in" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>  <a href="https://github.com/NishantSingh-2705" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a></td>
-    <td align="center"><a href="https://github.com/Subho0710"><img src="https://github.com/pranjay-poddar/Swasthify/blob/pranjay/src/assets/images/contributors/Subhojeet-Bhattacharjee.jpg" width="250px;" alt=""/><br /><sub><b>Subhojeet Bhattacharjee</b></sub></a><br /><br /> <a href="https://twitter.com/Subhoje53508662"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a> <a href="mailto:sb4194@srmist.edu.in" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>  <a href="https://github.com/Subho0710" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a></td>    
-  </tr>
-</table>
-
-
-
-## License
-
-Apache License
-© Team Swasthify-2021
 
